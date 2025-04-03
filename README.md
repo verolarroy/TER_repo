@@ -22,5 +22,6 @@ El proyecto se desarrolla en un entorno colaborativo completamente virtual, apli
 
 ## 🚀 Enlaces útiles
 
-- 📱 [Google Sites personales del equipo](https://sites.google.com/uoc.edu/greenflux/home?authuser=1)
+- 📱 [Google Sites del proyecto GreenFlux](https://sites.google.com/uoc.edu/greenflux/home?authuser=1)
+- 👩‍💻 [Google Sites Personal de Verónica Larroy](https://sites.google.com/u/1/d/1fRt_4zm-ebP1Pzp2r-9h988OYM8kolzk/p/10s2bs4s90sjecw00VtXt1daq3yS4_WnP/publishview)
 
